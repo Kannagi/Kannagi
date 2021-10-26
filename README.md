@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Discord : Discord : Helba#2387
 <!--
 **Kannagi/Kannagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
