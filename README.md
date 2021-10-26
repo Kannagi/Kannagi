@@ -1,6 +1,9 @@
-### Hi there 👋
+### Project 2501
+
+Welcome to my page, at the moment I mainly work on my AltairX processor, if you have a problem with one of my LMP3D / AURAE or NGDK projects, please contact me 
 
 Discord : Helba#2387
+
 <!--
 **Kannagi/Kannagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
