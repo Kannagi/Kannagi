@@ -4,9 +4,8 @@ Welcome to my page, at the moment I mainly work on my AltairX processor, if you 
 
 Discord : Helba#2387
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kannagi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Kannagi/github-readme-stats#gh-dark-mode-only)
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Kannagi&layout=compact&theme=dark#gh-dark-mode-only)
+![Kannagi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kannagi&show_icons=true&theme=dracula)
+![Kannagi Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Kannagi&langs_count=8&theme=dracula)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kannagi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
 
