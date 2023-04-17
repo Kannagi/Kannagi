@@ -4,9 +4,6 @@ Welcome to my page, at the moment I mainly work on my AltairX processor, if you 
 
 Discord : Helba#2387
 
-![Kannagi Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Kannagi&layout=compact&langs_count=8&theme=dark)
-
-![Kannagi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kannagi&show_icons=true&theme=dark)  
 
 <!--
 **Kannagi/Kannagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Kannagi Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Kannagi&layout=compact&langs_count=8&theme=dark)
+
+![Kannagi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kannagi&show_icons=true&theme=dark)  
+
 -->
