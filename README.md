@@ -4,11 +4,6 @@ Welcome to my page, at the moment I mainly work on my AltairX processor, if you 
 
 Discord : Helba#2387
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kannagi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kannagi&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="160" alt="streak graph"  />
-</div>
-
 
 <!--
 **Kannagi/Kannagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
