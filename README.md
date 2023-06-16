@@ -2,7 +2,7 @@
 
 Welcome to my page, at the moment I mainly work on my AltairX processor, if you have a problem with one of my LMP3D / AURAE or NGDK projects, please contact me 
 
-Discord : Helba#2387 
+Discord : kannagichan
 
 
 <!--
